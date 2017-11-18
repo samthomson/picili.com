@@ -1,0 +1,13 @@
+
+/*
+Headers, light black: #2E3339
+Text, dark grey: #C6C2C0
+
+*/
+
+h1, h2, h3, h4 {
+    color: #2E3339;
+}
+*{
+    color: #C6C2C0;
+}
