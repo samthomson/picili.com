@@ -11,3 +11,6 @@ h1, h2, h3, h4 {
 *{
     color: #888;
 }
+a,a:visited,a:hover,a:active {
+    color: #2E3339;
+}
